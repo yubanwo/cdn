@@ -1,0 +1,27 @@
+<svg width="95" height="20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="CDN: 多吉云">
+ <title>CDN: 又拍云</title>
+ <defs>
+  <linearGradient id="s" x2="0" y2="100%">
+   <stop offset="0" stop-color="#bbb" stop-opacity="0.1"/>
+   <stop offset="1" stop-opacity="0.1"/>
+  </linearGradient>
+ </defs>
+ <clipPath id="r">
+  <rect width="95" height="20" rx="3" fill="#fff" id="svg_1"/>
+ </clipPath>
+ <g>
+  <title>Layer 1</title>
+  <g clip-path="url(#r)" id="svg_2">
+   <rect width="52" height="20" fill="#555" id="svg_3"/>
+   <rect x="52" width="43" height="20" fill="#3693f3" id="svg_4"/>
+   <rect width="95" height="20" fill="url(#s)" id="svg_5"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110" id="svg_6">
+   <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMzY5M0YzIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+aUNsb3VkPC90aXRsZT48cGF0aCBkPSJNMTMuNzYyIDQuMjlhNi41MSA2LjUxIDAgMCAwLTUuNjY5IDMuMzMyIDMuNTcxIDMuNTcxIDAgMCAwLTEuNTU4LS4zNiAzLjU3MSAzLjU3MSAwIDAgMC0zLjUxNiAzQTQuOTE4IDQuOTE4IDAgMCAwIDAgMTQuNzk2YTQuOTE4IDQuOTE4IDAgMCAwIDQuOTIgNC45MTQgNC45MyA0LjkzIDAgMCAwIC42MTctLjA0NWgxNC40MmMyLjMwNS0uMjcyIDQuMDQxLTIuMjU4IDQuMDQzLTQuNTg5di0uMDA5YTQuNTk0IDQuNTk0IDAgMCAwLTMuNzI3LTQuNTA4IDYuNTEgNi41MSAwIDAgMC02LjUxMS02LjI3eiIvPjwvc3ZnPg==" id="svg_7"/>
+   <text aria-hidden="true" x="355" y="150" fill="#010101" fill-opacity="0.3" transform="scale(.1)" textLength="250" id="svg_8">CDN</text>
+   <text x="355" y="140" transform="scale(.1)" fill="#fff" textLength="250" id="svg_9">CDN</text>
+   <text aria-hidden="true" x="725" y="150" fill="#010101" fill-opacity="0.3" transform="scale(.1)" textLength="330" id="svg_10">又拍云</text>
+   <text x="725" y="140" transform="scale(.1)" fill="#fff" textLength="330" id="svg_11">又拍云</text>
+  </g>
+ </g>
+</svg>
